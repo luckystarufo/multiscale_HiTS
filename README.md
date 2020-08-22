@@ -16,7 +16,7 @@ The purpose of this repository is to help users reproduce the results shown in t
     * [Setup](#setup)
 * [Results](#results)
     * [Description](#description)
-    * [Instruction for Reproducing](#instruction for reproducing)
+    * [Instruction](#instruction)
 * [License](#license)
 * [Citation](#citation)
 
@@ -143,7 +143,7 @@ Reynolds number 100, and a video frame of blooming flowers, which you can find [
 
 ![figure 4: exp21](./figures/benchmarks.jpeg?raw=true)
 
-### Instruction for Reproducing
+### Instruction
 All results can be reproduced with the help of the notebooks in <em>scripts/</em>, though you may need a GPU machine for
 training some of the neural networks. 
 * For the first set of experiments, please use the scripts in <em>multiscale_HiTS_exp/</em>. You should first run 
