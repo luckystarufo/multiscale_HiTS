@@ -36,7 +36,7 @@ from the short-time models.
 * Makes the training easier: each NN model only need to be trained over a short period, circumventing the 
 [exploding/vanishing gradient](https://en.wikipedia.org/wiki/Vanishing_gradient_problem) problem.
 * Super flexible: can be integrated with numerical time-steppers, resulting in hybrid time-steppers. The hybrid time-steppers
-are parallelizable in nature, which is in sharp contrast to serialized numerical time-stepping algorithms.
+are parallelizable in nature, which is in sharp contrast to numerical time-stepping algorithms that are usually serialized.
 
 Check the paper for more details.
 
@@ -82,7 +82,7 @@ Check the paper for more details.
         |- LICENSE
 
 Note 1: The folder names contained in <em>data/</em> and <em>models/</em> are the same: 
-<em>Bach/</em>, <em>Cubic/<em/>, <em>Flower/</em>, <em>Fluid/</em>, <em>Hopf/</em>, <em>Hyperbolic/</em>, <em>KS/</em>, 
+<em>Bach/</em>, <em>Cubic/</em>, <em>Flower/</em>, <em>Fluid/</em>, <em>Hopf/</em>, <em>Hyperbolic/</em>, <em>KS/</em>, 
 <em>Linear/</em>, <em>Lorenz/</em>, <em>VanDerPol/</em>. 
 
 Note 2: We don't upload the data, models and results to Github as they are large files. However, you will be able to 
