@@ -1,6 +1,6 @@
 # Multiscale Hierarchical Time-Stepper (Multiscale HiTS)
 
-### [Code](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S) | [Paper]() | [Data](https://www.dropbox.com/sh/hn47hecp22xpxt4/AADkXmbqZHg4yPRnBAUMFi9wa?dl=0)
+### [Code](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S) | [Paper](https://arxiv.org/abs/2008.09768) | [Data](https://www.dropbox.com/sh/hn47hecp22xpxt4/AADkXmbqZHg4yPRnBAUMFi9wa?dl=0)
 
 [Yuying Liu](https://students.washington.edu/yliu814/wordpress/),
 [J. Nathan Kutz](http://faculty.washington.edu/kutz/),
@@ -164,7 +164,12 @@ This project utilizes the [MIT LICENSE](LICENSE).
 
 ## Citation
 ```
-TBD
+@article{liu2020hierarchica,
+  title={Hierarchical Deep Learning of Multiscale Differential Equation Time-Steppers},
+  author={Liu, Yuying and Kutz, J Nathan and Brunton, Steven L},
+  journal={arXiv preprint arXiv:2008.09768},
+  year={2020}
+}
 ```
 
 
