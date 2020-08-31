@@ -1,6 +1,6 @@
 # Multiscale Hierarchical Time-Stepper (Multiscale HiTS)
 
-### [Code](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S) | [Paper](https://arxiv.org/abs/2008.09768) | [Data](https://www.dropbox.com/sh/hn47hecp22xpxt4/AADkXmbqZHg4yPRnBAUMFi9wa?dl=0)
+### [Code](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S?usp=sharing) | [Paper](https://arxiv.org/abs/2008.09768) | [Data](https://www.dropbox.com/sh/hn47hecp22xpxt4/AADkXmbqZHg4yPRnBAUMFi9wa?dl=0)
 
 [Yuying Liu](https://students.washington.edu/yliu814/wordpress/),
 [J. Nathan Kutz](http://faculty.washington.edu/kutz/),
@@ -93,7 +93,7 @@ generate them by following the instructions in the scripts and below.
 We provide two ways for you to get started with this project. One is to use Google Colab and the other is to clone the 
 repository and play with it locally.
 ### Colab
-If you want to quickly experiment with HiTS, we have written a [Colab](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S). 
+If you want to quickly experiment with HiTS, we have written a [Colab](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S?usp=sharing). 
 It outlines the big idea of our proposed multiscale HiTS and doesn't require installing anything or intensive training. 
 Linear differential equation for a harmonic oscillator is served as a toy example to help you go through the core of the codes.
 Figure 2 in the paper can be reproduced with it.
@@ -153,7 +153,7 @@ After that, you can run the other three scripts to reproduce Table 5 - 9, Figure
 and Figure 7 with the setup and training details documented in the Appendix of the paper. 
 * There is also a <em>others/</em> in the <em>scripts/</em> folder. The two notebooks in it can be used to generate Figure 2 
 and 10. Note that one of the two notebooks, which is named <em>motivating_example.ipynb</em>, is pretty much the same with 
-the one provided in [Google Colab](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S).
+the one provided in [Google Colab](https://colab.research.google.com/drive/1I6sX-yqP__Z3iX-ita-pXi96d-tnZT_S?usp=sharing).
 
 Happy coding :)
 
@@ -164,7 +164,7 @@ This project utilizes the [MIT LICENSE](LICENSE).
 
 ## Citation
 ```
-@article{liu2020hierarchica,
+@article{liu2020hierarchical,
   title={Hierarchical Deep Learning of Multiscale Differential Equation Time-Steppers},
   author={Liu, Yuying and Kutz, J Nathan and Brunton, Steven L},
   journal={arXiv preprint arXiv:2008.09768},
